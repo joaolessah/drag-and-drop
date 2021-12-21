@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Space+Mono&display=swap');
+
+html{
+    font-family: 'Bebas Neue', sans-serif, Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(46, 50, 53);
+    color:#FF4AFF;
+}
+
+/* Aqui estou organizando a div principal para que ela fique melhor e com as coisas devidamente espaçadas */
+
+.boards{
+    display: flex;
+    margin-top: 3%;
+}
+
