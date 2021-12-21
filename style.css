@@ -16,3 +16,49 @@ body{
     margin-top: 3%;
 }
 
+.board{
+    background-color:#BB43E811 ;
+    border: 1px solid #FF4AFF11;
+    border-radius: 7px;
+    margin: 0 15px;
+}
+
+.board h3{
+    margin: 0;
+    padding: 16px;
+    color: white;
+}
+
+.dropzone{
+    width: 280px;
+    height: 200px;
+    padding: 16px;
+}
+
+.card{
+    width: 250px;
+    border: solid 1px #FF4AFF11;
+    background-color: #A257FF22;
+    border-radius: 5px;
+    margin: 25px 0;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px;
+}
+
+.status{
+    width: 35px;
+    height: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;  
+}
+
+.green {
+    background-color: #D7EB67;
+}
+.blue {
+    background-color: #5AFFEF;
+}
+.orange {
+    background-color: #FF994D;
+}
